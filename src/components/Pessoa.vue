@@ -18,7 +18,7 @@ export default {
     },
     data(){
         return{
-            nome: "Nelson"
+            nome: "Mariana"
         }
         
     }
