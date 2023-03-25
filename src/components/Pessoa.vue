@@ -18,7 +18,7 @@ export default {
     },
     data(){
         return{
-            nome: "Marianinha"
+            nome: "Marianinha Bocó"
         }
         
     }
