@@ -18,7 +18,7 @@ export default {
     },
     data(){
         return{
-            nome: "Mariana"
+            nome: "Marianinha"
         }
         
     }
